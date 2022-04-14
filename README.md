@@ -15,5 +15,3 @@ My name is Ilya Katun. I work as a Software Engineer using Python, .NET and Type
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katunilya&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=katunilya&show_icons=true&hide_border=true&theme=dark)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=katunilya)](https://github.com/katunilya/github-profile-trophy)
