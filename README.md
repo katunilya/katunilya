@@ -31,7 +31,9 @@ My name is Ilya Katun. I work as a Software Engineer using Python, .NET and Type
 
 ## 🐶 Pet Projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=mona&hide_border=true&theme=dark"/>
+<a href="https://github.com/katunilya/mona">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=mona&hide_border=true&theme=dark"/>
+</a>
 
 ## 🛠️ Core Skills and Tools
 
