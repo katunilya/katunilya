@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About me
 
-My name is Ilya Katun. I work as a Software Engineer using Python, .NET and TypeScript. Used to work as Fullstack developer with Angular. Passionate about software design and architecture. Sure that deep BI can solve a lot of problems and save a lot of time. 
+My name is Ilya Katun. I work as a Software Engineer using Python and .NET. Used to work as a Fullstack developer with Angular. Passionate about software design and architecture. Sure that deep BI can solve a lot of problems and save a lot of time. 
 
 ## 💼 Experience
 
@@ -25,14 +25,14 @@ My name is Ilya Katun. I work as a Software Engineer using Python, .NET and Type
 ## 📈 Stats
 
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katunilya&show_icons=true&hide_border=true&theme=dark">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=katunilya&theme=dark&date_format=M%20j%5B%2C%20Y%5D)&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=katunilya&show_icons=true&hide_border=true&theme=light">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=katunilya&theme=light&date_format=M%20j%5B%2C%20Y%5D)&hide_border=true"/>
 </p>
 
 ## 🐶 Pet Projects
 
 <a href="https://github.com/katunilya/mona">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=mona&hide_border=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=mona&hide_border=true&theme=light"/>
 </a>
 
 ## 🛠️ Core Skills and Tools
