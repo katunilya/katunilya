@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 <div align="center"> 
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+  <img src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
   <div id="social-budges">
     <p>
       <a href="http://t.me/katunilya"><img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&style=for-the-badge"/></a>
