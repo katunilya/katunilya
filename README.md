@@ -32,7 +32,7 @@ My name is Ilya Katun. I work as a Software Engineer using Python and .NET. Used
 ## 🐶 Pet Projects
 <p align="center">
   <a href="https://github.com/katunilya/moona">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=mooa&hide_border=true&theme=light"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=moona&hide_border=true&theme=light"/>
   </a>
   <a href="https://github.com/katunilya/pymon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=pymon&hide_border=true&theme=light"/>
