@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px"></h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"></h1>
 <div align="center"> 
   <img src="https://media.giphy.com/media/1USKMDPjuH4ovL7J5h/giphy.gif"/>
   <div id="social-budges">
