@@ -21,7 +21,7 @@ My name is Ilya Katun. I work as a Software Engineer using Python and .NET. Used
 - 💼 **Ex**: Middle Data Enginner at _Gazprom-Neft Digital Solutions_, Python, Feb 2021 - Dec 2021
 - 💼 **Ex**: Junior Developer at _Solvery.io_, TypeScript, Nov 2020 - Feb 2021
 - 💼 **Ex**: Junior Developer at _SPb MIAC_, .NET, summer 2019
-- 
+
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Curring in Python and why it sucks](https://dev.to/katunilya/curring-in-python-an-why-it-sucks-1p80)
