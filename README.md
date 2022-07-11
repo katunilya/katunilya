@@ -32,6 +32,7 @@ My name is Ilya Katun. I work as a Software Engineer using Python and .NET. Used
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=katunilya&show_icons=true&hide_border=true&theme=light">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=katunilya&theme=light&date_format=M%20j%5B%2C%20Y%5D)&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katunilya&layout=compact&hide_border=true&theme=light"/>
 </p>
 
 ## 🐶 Pet Projects
