@@ -24,6 +24,7 @@ My name is Ilya Katun. I work as a Software Engineer using Python and .NET. Used
 
 ## 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How do you track your progress?](https://dev.to/katunilya/how-do-you-track-your-progress-1884)
 - [Curring in Python and why it sucks](https://dev.to/katunilya/curring-in-python-an-why-it-sucks-1p80)
 <!-- BLOG-POST-LIST:END -->
 
