@@ -16,7 +16,7 @@ My name is Ilya Katun. I work as a Software Engineer using Python and .NET. Used
 
 ## 💼 Experience
 
-**Current occupation**: 💼 Tinkoff (since Jul 2023) as Python Developer
+**Current occupation**: 💼 Tinkoff (since Jul 2023) as Senior Python Developer
 
 - 💼 **Ex**: SberKorus (Jan 2022-Jul 2023) as Middle Backend Developer/System Analyst/Solution Architect
 - 💼 **Ex**: Middle Data Enginner at _Gazprom-Neft Digital Solutions_, Python, Feb 2021 - Dec 2021
