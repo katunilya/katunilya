@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About me
 
-My name is Ilya Katun. I work as a Software Engineer using Python and .NET. Used to work as a Fullstack developer with Angular. Passionate about software design and architecture. Sure that deep BI can solve a lot of problems and save a lot of time. 
+Senior Software Engineer in Tinkoff Messenger Team.
 
 ## 💼 Experience
 
