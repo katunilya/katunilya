@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About me
 
-Senior Software Engineer in Tinkoff Messenger Team.
+Senior Software Engineer in Tinkoff Messenger Team, developer of [tibia](https://github.com/katunilya/tibia).
 
 ## 💼 Experience
 
@@ -30,18 +30,3 @@ Senior Software Engineer in Tinkoff Messenger Team.
 
 - 🎓 Lecturer on System Design and Architecture at High School of Economics, Saint Petersburg, Fall 2021, 2022
 
-## 📩 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How do you track your progress?](https://dev.to/katunilya/how-do-you-track-your-progress-1884)
-- [Curring in Python and why it sucks](https://dev.to/katunilya/curring-in-python-an-why-it-sucks-1p80)
-<!-- BLOG-POST-LIST:END -->
-
-## 🐶 Pet Projects
-<p align="center">
-  <a href="https://github.com/katunilya/moona">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=moona&hide_border=true&theme=light"/>
-  </a>
-  <a href="https://github.com/katunilya/fundom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katunilya&repo=fundom&hide_border=true&theme=light"/>
-  </a>
-</p>
