@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 About me
 
-Senior Software Engineer in Tinkoff Messenger Team, developer of [tibia](https://github.com/katunilya/tibia).
+Senior Software Engineer in T-Bank Messenger Team, developer of [tibia](https://github.com/katunilya/tibia).
 
 ## 💼 Experience
 
-**Current occupation**: 💼 Tinkoff (since Jul 2023) as Senior Python Developer
+**Current occupation**: 💼 T-Bank (since Jul 2023) as Senior Python Developer
 
 - 💼 **Ex**: SberKorus (Jan 2022-Jul 2023) as Middle Backend Developer/System Analyst/Solution Architect
 - 💼 **Ex**: Middle Data Enginner at _Gazprom-Neft Digital Solutions_, Python, Feb 2021 - Dec 2021
@@ -26,7 +26,7 @@ Senior Software Engineer in Tinkoff Messenger Team, developer of [tibia](https:/
 ## 🎓 Education
 
 - 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018-2022 
-- 🎓 Master's Degree in AI technologies and Big Data, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2022-2024 
+- 🎓 Master's Degree in AI technologies and Big Data, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2022-2024 (unfinished)
 
-- 🎓 Lecturer on System Design and Architecture at High School of Economics, Saint Petersburg, Fall 2021, 2022
-
+- 🎓 Lecturer on System Design and Architecture at HSE & ITMO, Saint Petersburg, Fall 2021-2024
+- 🎓 Lecturer on Python Backend Development at HSE & ITMO, Saint Petersburg, Fall 2024
